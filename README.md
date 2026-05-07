@@ -2,8 +2,8 @@
 This project demonstrates an end-to-end customer shopping behavior data analytics workflow using Python(panda), PostgreSQL, and Power BI. The dataset was cleaned, analyzed, and visualized to generate insights and support decision-making.
 
 **Skills Demonstrated**
--Data Cleaning
--EDA
+*Data Cleaning
+*EDA
 -SQL
 -Interactive Data Visualization
 -Dashboard Development
