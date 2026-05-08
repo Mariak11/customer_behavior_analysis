@@ -7,7 +7,8 @@ This project demonstrates an end-to-end customer shopping behavior data analytic
 * **Data Engineering (Python):** Cleaned and transformed raw datasets using Pandas.
 * **Database Management (SQL):** Migrated data to a relational database for querying.
 * **Business Intelligence (Power BI):** Developed an interactive dashboard to visualize KPIs.
-<img width="1024" height="1024" alt="data project workflow" src="https://github.com/user-attachments/assets/acabe987-b7ef-4dad-b8be-a055a793297b" />
+<img width="256" height="256" alt="data project workflow" src="https://github.com/user-attachments/assets/1cc8d6eb-14c6-4739-abe8-893ed4730d0f" />
+
 
 ---
 
